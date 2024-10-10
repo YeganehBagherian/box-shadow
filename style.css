@@ -1,0 +1,19 @@
+body{
+    font-family: "Lora", serif;
+    color:#575f7d  ;
+}
+h1,h2,h3{
+    font-family:"Roboto", sans-serif ;
+}
+h1{
+    color:#575f7d  ;
+}
+h2{
+    color: #6d8b74 ;
+}
+a{
+    color:#94b3fd  ;
+}
+a :hover{
+    color: black;
+}
