@@ -1,19 +1,7 @@
-body{
-    font-family: "Lora", serif;
-    color:#575f7d  ;
-}
-h1,h2,h3{
-    font-family:"Roboto", sans-serif ;
-}
-h1{
-    color:#575f7d  ;
-}
-h2{
-    color: #6d8b74 ;
-}
-a{
-    color:#94b3fd  ;
-}
-a :hover{
-    color: black;
+div{
+    width: 400px;
+    height: 200px;
+    background-color:rgb(84, 84, 222) ;
+    box-shadow: 20px 20px 5px rgb(11, 11, 11);
+    border:3px solid rgb(229, 18, 18);
 }
